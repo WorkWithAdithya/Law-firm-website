@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "name": "Drafting of Sale Deed",
+    "description": "Drafting Sale Deed by Lawyer ,Verification By Expert ",
+    "price":  5000 
+  },
+  {
+    "id": 2,
+    "name": "Drafting of Sale Deed & Registration  ",
+    "description": "Drafting of Sale Deed, Verification by Expert, Assistence at SRO  ",
+    "price": 10000
+  },
+  {
+    "id": 3,
+    "name": "Drafting of Sale Agreement ",
+    "description": "Drafting  sale agreement by Lawyer, Verification by Expert ",
+    "price": 5000
+  },  {
+    "id": 4,
+    "name": "Drafting of Sale Agreement  & Registration   ",
+    "description": "Drafting  sale agreement by Lawyer, Verification by Expert assistance at SRO office for Registration  ",
+    "price": 10000
+  }
+  ,  {
+    "id": 5,
+    "name": "Drafting of Rectification Deed & Registration  ",
+    "description": "Drafting of Rectification Deed by Expert and assitace at SRO office  ",
+    "price": 10000
+  }
+  ,  {
+    "id": 6,
+    "name": "Lease Agreement with out stamp Paper ",
+    "description": "Drafting of Lease Agreement with out Stamp paper  ",
+    "price": 1000
+  }
+  ,  {
+    "id": 7,
+    "name": "Lease Agreement with Stamp Paper ",
+    "description": " Lease Agreement with stamp duty ( Based on lease term and lease ) ",
+    "price": "Based on lease term and value "
+  }
+  ,  {
+    "id": 8,
+    "name": "Lease Agreement with Registration ",
+    "description": "Drafting of Lease Agreement by expert, Verification, Assistance at SRO  ",
+    "price": 8000
+  }
+  ,  {
+    "id": 9,
+    "name": "Hindu Marriage certificate (Online)",
+    "description": " Hindu jain, Buddist and sikh marriage certificate,  only online Registration, certificate Door Delivery  ",
+    "price": 2500
+  }
+  ,  {
+    "id": 10,
+    "name": "Hindu Marriage certificate (Offline) ",
+    "description":  "Hindu jain, Buddist and sikh marriage certificate,  only offline Registration, certificate Door Delivery ",
+    "price": 3500
+  }
+  ,  {
+    "id": 11,
+    "name": "Special Marriage certificate (Online) ",
+    "description": "Other than Hindu ",
+    "price": 3500
+  }
+  ,  {
+    "id": 12,
+    "name": "Special Marriage certificate (Offline )  ",
+    "description": " Other than Hindu ",
+    "price": 4500
+  }
+  ,  {
+    "id": 13,
+    "name": "Encumbrance certificate Manual  ( Certified EC) ",
+    "description": "From 1960 to till date ( more then 60 years ) Manual EC certified Copy ",
+    "price": 5000
+  }
+  ,  {
+    "id": 14,
+    "name": "Encumbrance certificate ( Certified EC) ",
+    "description": "Online period 2004 to 2024  ",
+    "price": 1500
+  }
+  ,  {
+    "id": 15,
+    "name": "Certified Copy of Deeds ( Online ) ",
+    "description": "Certified Copy of any deed ( Sale deed,  Sale Agreement, Gift deed, Will, ETC  ",
+    "price": 1000
+  }
+  ,  {
+    "id": 16,
+    "name": "Certified copy of Deeds ( Manual- Old deeds )  ",
+    "description": "Certified Copy of any deed ( Sale deed,  Sale Agreement, Gift deed, Will, ETC )  ",
+    "price": 2500
+  }
+  ,  {
+    "id": 17,
+    "name": "Trust Registration ( draft and Registration )  ",
+    "description": "Drafting of trust deed, Verification by expert, Assistance at SRO   ",
+    "price": 15000
+  }
+  ,  {
+    "id": 18,
+    "name": "Firm Registration   ",
+    "description": "Drafting and Registration ETC    ",
+    "price": 15000
+  }
+  ,  {
+    "id": 19,
+    "name": "Adjurication of Un-Registered Sale Agreement  ",
+    "description": "Drafting, Verification, Assistance at DRO, ( not include Govt duty)  ",
+    "price": 10000
+  }
+  ,  {
+    "id": 20,
+    "name": "Adjurication of GPA ( Within Family )  ",
+    "description": "Drafting, Verification, Assistance at DRO ( not include GOVT duty)  ",
+    "price": 8000
+  }
+  ,  {
+    "id": 21,
+    "name": "Adjurication of GPA ( Other than family )  ",
+    "description": " Drafting, Verification, Assistance at DR Office ( not include GOVT duty) ",
+    "price": 8000
+  }
+  ,  {
+    "id": 22,
+    "name": "Disulution of Partership firm ",
+    "description": " ",
+    "price": 5000
+  }
+
+
+]
